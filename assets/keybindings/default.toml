@@ -1,0 +1,4 @@
+[keybindings]
+# ... 其他快捷键 ...
+"cmd+shift+z" = "toggle_zen_mode"  # macOS
+"ctrl+shift+z" = "toggle_zen_mode" # Windows/Linux 
